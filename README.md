@@ -1,1 +1,1 @@
-# autocritic
+# AutoCritic
